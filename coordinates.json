@@ -1,0 +1,1370 @@
+[
+    [
+        {
+            "place_id": 88659351,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 10936749230,
+            "lat": "48.5733424",
+            "lon": "2.4773479",
+            "class": "place",
+            "type": "house",
+            "place_rank": 30,
+            "importance": 0.000058024719615427135,
+            "addresstype": "place",
+            "name": "",
+            "display_name": "224, Boulevard John Fitzgerald Kennedy, Corbeil-Essonnes, Évry, Essonne, France métropolitaine, 91100, France",
+            "boundingbox": [
+                "48.5732924",
+                "48.5733924",
+                "2.4772979",
+                "2.4773979"
+            ],
+            "dc_project": "LCP-FR-DC1 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 110560228,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 71033,
+            "lat": "48.5846140",
+            "lon": "7.7507127",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.7275493034670005,
+            "addresstype": "city",
+            "name": "Strasbourg",
+            "display_name": "Strasbourg, Bas-Rhin, Grand Est, France métropolitaine, France",
+            "boundingbox": [
+                "48.4918610",
+                "48.6461896",
+                "7.6881371",
+                "7.8360646"
+            ],
+            "dc_project": "OVHCLOUD_-_SBG-7"
+        }
+    ],
+    [
+        {
+            "place_id": 92737886,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 59043,
+            "lat": "50.6915893",
+            "lon": "3.1741734",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.6209245911554184,
+            "addresstype": "town",
+            "name": "Roubaix",
+            "display_name": "Roubaix, Lille, Nord, Hauts-de-France, France métropolitaine, 59100, France",
+            "boundingbox": [
+                "50.6687501",
+                "50.7087461",
+                "3.1511236",
+                "3.2174443"
+            ],
+            "dc_project": "OVHCLOUD_-_RBX-10"
+        }
+    ],
+    [
+        {
+            "place_id": 87754359,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 1107562900,
+            "lat": "48.5945640",
+            "lon": "2.3205063",
+            "class": "highway",
+            "type": "unclassified",
+            "place_rank": 26,
+            "importance": 0.053393343251697534,
+            "addresstype": "road",
+            "name": "Avenue du Centre d'Essais en Vol",
+            "display_name": "Avenue du Centre d'Essais en Vol, Brétigny-sur-Orge, Palaiseau, Essonne, France métropolitaine, 91220, France",
+            "boundingbox": [
+                "48.5944438",
+                "48.5946782",
+                "2.3204118",
+                "2.3206080"
+            ],
+            "dc_project": "Amazon Web Services (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88377597,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 43927264,
+            "lat": "48.5976774",
+            "lon": "2.4107266",
+            "class": "highway",
+            "type": "unclassified",
+            "place_rank": 26,
+            "importance": 0.05339106355382617,
+            "addresstype": "road",
+            "name": "Rue Léonard de Vinci",
+            "display_name": "Rue Léonard de Vinci, Lisses, Évry, Essonne, France métropolitaine, 91090, France",
+            "boundingbox": [
+                "48.5969932",
+                "48.6038286",
+                "2.4080448",
+                "2.4167385"
+            ],
+            "dc_project": "CLOUD HQ France (PROJET) - CDG 1"
+        }
+    ],
+    [
+        {
+            "place_id": 88377597,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 43927264,
+            "lat": "48.5976774",
+            "lon": "2.4107266",
+            "class": "highway",
+            "type": "unclassified",
+            "place_rank": 26,
+            "importance": 0.05339106355382617,
+            "addresstype": "road",
+            "name": "Rue Léonard de Vinci",
+            "display_name": "Rue Léonard de Vinci, Lisses, Évry, Essonne, France métropolitaine, 91090, France",
+            "boundingbox": [
+                "48.5969932",
+                "48.6038286",
+                "2.4080448",
+                "2.4167385"
+            ],
+            "dc_project": "CLOUD HQ France (PROJET) - CDG 2"
+        }
+    ],
+    [
+        {
+            "place_id": 88663956,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 2835993301,
+            "lat": "48.7884838",
+            "lon": "2.2153075",
+            "class": "place",
+            "type": "house",
+            "place_rank": 30,
+            "importance": 0.00005987258716711708,
+            "addresstype": "place",
+            "name": "",
+            "display_name": "9, Avenue du Maréchal Juin, Inovel Parc Nord, Meudon-la-Forêt, Meudon, Boulogne-Billancourt, Hauts-de-Seine, France métropolitaine, 92360, France",
+            "boundingbox": [
+                "48.7884338",
+                "48.7885338",
+                "2.2152575",
+                "2.2153575"
+            ],
+            "dc_project": "Equinix PA13 extension en projet"
+        }
+    ],
+    [
+        {
+            "place_id": 87991447,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 787335140,
+            "lat": "48.8566950",
+            "lon": "2.3854081",
+            "class": "place",
+            "type": "house",
+            "place_rank": 30,
+            "importance": 0.00009317235065227768,
+            "addresstype": "place",
+            "name": "",
+            "display_name": "65, Rue Léon Frot, Quartier de la Roquette, Paris 11e Arrondissement, Paris, France métropolitaine, 75011, France",
+            "boundingbox": [
+                "48.8566450",
+                "48.8567450",
+                "2.3853581",
+                "2.3854581"
+            ],
+            "dc_project": "Telehouse 2.2 (KDDI DC leon Frot)"
+        }
+    ],
+    [
+        {
+            "place_id": 88584253,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 138211,
+            "lat": "48.9267236",
+            "lon": "2.3896123",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.5309436952669682,
+            "addresstype": "town",
+            "name": "La Courneuve",
+            "display_name": "La Courneuve, Saint-Denis, Seine-Saint-Denis, France métropolitaine, 93120, France",
+            "boundingbox": [
+                "48.9166172",
+                "48.9515146",
+                "2.3746705",
+                "2.4225352"
+            ],
+            "dc_project": "Interxion PAR10"
+        }
+    ],
+    [
+        {
+            "place_id": 88584253,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 138211,
+            "lat": "48.9267236",
+            "lon": "2.3896123",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.5309436952669682,
+            "addresstype": "town",
+            "name": "La Courneuve",
+            "display_name": "La Courneuve, Saint-Denis, Seine-Saint-Denis, France métropolitaine, 93120, France",
+            "boundingbox": [
+                "48.9166172",
+                "48.9515146",
+                "2.3746705",
+                "2.4225352"
+            ],
+            "dc_project": "Interxion PAR11"
+        }
+    ],
+    [
+        {
+            "place_id": 89544196,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 103245,
+            "lat": "48.9479069",
+            "lon": "2.2481797",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.5754315004406851,
+            "addresstype": "city",
+            "name": "Argenteuil",
+            "display_name": "Argenteuil, Val-d'Oise, Île-de-France, France métropolitaine, 95100, France",
+            "boundingbox": [
+                "48.9278264",
+                "48.9724609",
+                "2.2033804",
+                "2.2922314"
+            ],
+            "dc_project": "Equinix (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88842930,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 1174036,
+            "lat": "48.6817080",
+            "lon": "2.1701573",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.5287466749502764,
+            "addresstype": "town",
+            "name": "Les Ulis",
+            "display_name": "Les Ulis, Palaiseau, Essonne, France métropolitaine, 91940, France",
+            "boundingbox": [
+                "48.6682958",
+                "48.6948230",
+                "2.1608333",
+                "2.2119427"
+            ],
+            "dc_project": "Digital Realty Les Ulis (PROJET) (DC2)"
+        }
+    ],
+    [
+        {
+            "place_id": 88659351,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 10936749230,
+            "lat": "48.5733424",
+            "lon": "2.4773479",
+            "class": "place",
+            "type": "house",
+            "place_rank": 30,
+            "importance": 0.000058024719615427135,
+            "addresstype": "place",
+            "name": "",
+            "display_name": "224, Boulevard John Fitzgerald Kennedy, Corbeil-Essonnes, Évry, Essonne, France métropolitaine, 91100, France",
+            "boundingbox": [
+                "48.5732924",
+                "48.5733924",
+                "2.4772979",
+                "2.4773979"
+            ],
+            "dc_project": "LCP-FR-DC2 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88659351,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 10936749230,
+            "lat": "48.5733424",
+            "lon": "2.4773479",
+            "class": "place",
+            "type": "house",
+            "place_rank": 30,
+            "importance": 0.000058024719615427135,
+            "addresstype": "place",
+            "name": "",
+            "display_name": "224, Boulevard John Fitzgerald Kennedy, Corbeil-Essonnes, Évry, Essonne, France métropolitaine, 91100, France",
+            "boundingbox": [
+                "48.5732924",
+                "48.5733924",
+                "2.4772979",
+                "2.4773979"
+            ],
+            "dc_project": "LCP-FR-DC3 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88371129,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 320306631,
+            "lat": "48.6502954",
+            "lon": "2.2280516",
+            "class": "building",
+            "type": "yes",
+            "place_rank": 30,
+            "importance": 0.000058122377355565995,
+            "addresstype": "building",
+            "name": "Data4 Marcoussis",
+            "display_name": "Data4 Marcoussis, 3, Route de Marcoussis, Marcoussis, Palaiseau, Essonne, France métropolitaine, 91460, France",
+            "boundingbox": [
+                "48.6501568",
+                "48.6504021",
+                "2.2273381",
+                "2.2287460"
+            ],
+            "dc_project": "DATA4 DC22 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88371129,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 320306631,
+            "lat": "48.6502954",
+            "lon": "2.2280516",
+            "class": "building",
+            "type": "yes",
+            "place_rank": 30,
+            "importance": 0.000058122377355565995,
+            "addresstype": "building",
+            "name": "Data4 Marcoussis",
+            "display_name": "Data4 Marcoussis, 3, Route de Marcoussis, Marcoussis, Palaiseau, Essonne, France métropolitaine, 91460, France",
+            "boundingbox": [
+                "48.6501568",
+                "48.6504021",
+                "2.2273381",
+                "2.2287460"
+            ],
+            "dc_project": "DATA4 DC21 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88371129,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 320306631,
+            "lat": "48.6502954",
+            "lon": "2.2280516",
+            "class": "building",
+            "type": "yes",
+            "place_rank": 30,
+            "importance": 0.000058122377355565995,
+            "addresstype": "building",
+            "name": "Data4 Marcoussis",
+            "display_name": "Data4 Marcoussis, 3, Route de Marcoussis, Marcoussis, Palaiseau, Essonne, France métropolitaine, 91460, France",
+            "boundingbox": [
+                "48.6501568",
+                "48.6504021",
+                "2.2273381",
+                "2.2287460"
+            ],
+            "dc_project": "DATA4 DC13 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88371129,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 320306631,
+            "lat": "48.6502954",
+            "lon": "2.2280516",
+            "class": "building",
+            "type": "yes",
+            "place_rank": 30,
+            "importance": 0.000058122377355565995,
+            "addresstype": "building",
+            "name": "Data4 Marcoussis",
+            "display_name": "Data4 Marcoussis, 3, Route de Marcoussis, Marcoussis, Palaiseau, Essonne, France métropolitaine, 91460, France",
+            "boundingbox": [
+                "48.6501568",
+                "48.6504021",
+                "2.2273381",
+                "2.2287460"
+            ],
+            "dc_project": "DATA4 DC14 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88371129,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 320306631,
+            "lat": "48.6502954",
+            "lon": "2.2280516",
+            "class": "building",
+            "type": "yes",
+            "place_rank": 30,
+            "importance": 0.000058122377355565995,
+            "addresstype": "building",
+            "name": "Data4 Marcoussis",
+            "display_name": "Data4 Marcoussis, 3, Route de Marcoussis, Marcoussis, Palaiseau, Essonne, France métropolitaine, 91460, France",
+            "boundingbox": [
+                "48.6501568",
+                "48.6504021",
+                "2.2273381",
+                "2.2287460"
+            ],
+            "dc_project": "DATA4 DC20 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88371129,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 320306631,
+            "lat": "48.6502954",
+            "lon": "2.2280516",
+            "class": "building",
+            "type": "yes",
+            "place_rank": 30,
+            "importance": 0.000058122377355565995,
+            "addresstype": "building",
+            "name": "Data4 Marcoussis",
+            "display_name": "Data4 Marcoussis, 3, Route de Marcoussis, Marcoussis, Palaiseau, Essonne, France métropolitaine, 91460, France",
+            "boundingbox": [
+                "48.6501568",
+                "48.6504021",
+                "2.2273381",
+                "2.2287460"
+            ],
+            "dc_project": "DATA4 DC19 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88371129,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 320306631,
+            "lat": "48.6502954",
+            "lon": "2.2280516",
+            "class": "building",
+            "type": "yes",
+            "place_rank": 30,
+            "importance": 0.000058122377355565995,
+            "addresstype": "building",
+            "name": "Data4 Marcoussis",
+            "display_name": "Data4 Marcoussis, 3, Route de Marcoussis, Marcoussis, Palaiseau, Essonne, France métropolitaine, 91460, France",
+            "boundingbox": [
+                "48.6501568",
+                "48.6504021",
+                "2.2273381",
+                "2.2287460"
+            ],
+            "dc_project": "DATA4 DC18 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88197895,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 320306631,
+            "lat": "48.6502954",
+            "lon": "2.2280516",
+            "class": "building",
+            "type": "yes",
+            "place_rank": 30,
+            "importance": 0.000058122377355565995,
+            "addresstype": "building",
+            "name": "Data4 Marcoussis",
+            "display_name": "Data4 Marcoussis, 3, Route de Marcoussis, Marcoussis, Palaiseau, Essonne, France métropolitaine, 91460, France",
+            "boundingbox": [
+                "48.6501568",
+                "48.6504021",
+                "2.2273381",
+                "2.2287460"
+            ],
+            "dc_project": "DATA4 DC17 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88197895,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 320306631,
+            "lat": "48.6502954",
+            "lon": "2.2280516",
+            "class": "building",
+            "type": "yes",
+            "place_rank": 30,
+            "importance": 0.000058122377355565995,
+            "addresstype": "building",
+            "name": "Data4 Marcoussis",
+            "display_name": "Data4 Marcoussis, 3, Route de Marcoussis, Marcoussis, Palaiseau, Essonne, France métropolitaine, 91460, France",
+            "boundingbox": [
+                "48.6501568",
+                "48.6504021",
+                "2.2273381",
+                "2.2287460"
+            ],
+            "dc_project": "DATA4 DC16 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88197895,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 320306631,
+            "lat": "48.6502954",
+            "lon": "2.2280516",
+            "class": "building",
+            "type": "yes",
+            "place_rank": 30,
+            "importance": 0.000058122377355565995,
+            "addresstype": "building",
+            "name": "Data4 Marcoussis",
+            "display_name": "Data4 Marcoussis, 3, Route de Marcoussis, Marcoussis, Palaiseau, Essonne, France métropolitaine, 91460, France",
+            "boundingbox": [
+                "48.6501568",
+                "48.6504021",
+                "2.2273381",
+                "2.2287460"
+            ],
+            "dc_project": "DATA4 DC15 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88197895,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 320306631,
+            "lat": "48.6502954",
+            "lon": "2.2280516",
+            "class": "building",
+            "type": "yes",
+            "place_rank": 30,
+            "importance": 0.000058122377355565995,
+            "addresstype": "building",
+            "name": "Data4 Marcoussis",
+            "display_name": "Data4 Marcoussis, 3, Route de Marcoussis, Marcoussis, Palaiseau, Essonne, France métropolitaine, 91460, France",
+            "boundingbox": [
+                "48.6501568",
+                "48.6504021",
+                "2.2273381",
+                "2.2287460"
+            ],
+            "dc_project": "DATA4 DC23 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88197895,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 320306631,
+            "lat": "48.6502954",
+            "lon": "2.2280516",
+            "class": "building",
+            "type": "yes",
+            "place_rank": 30,
+            "importance": 0.000058122377355565995,
+            "addresstype": "building",
+            "name": "Data4 Marcoussis",
+            "display_name": "Data4 Marcoussis, 3, Route de Marcoussis, Marcoussis, Palaiseau, Essonne, France métropolitaine, 91460, France",
+            "boundingbox": [
+                "48.6501568",
+                "48.6504021",
+                "2.2273381",
+                "2.2287460"
+            ],
+            "dc_project": "DATA4 DC24 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88197895,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 320306631,
+            "lat": "48.6502954",
+            "lon": "2.2280516",
+            "class": "building",
+            "type": "yes",
+            "place_rank": 30,
+            "importance": 0.000058122377355565995,
+            "addresstype": "building",
+            "name": "Data4 Marcoussis",
+            "display_name": "Data4 Marcoussis, 3, Route de Marcoussis, Marcoussis, Palaiseau, Essonne, France métropolitaine, 91460, France",
+            "boundingbox": [
+                "48.6501568",
+                "48.6504021",
+                "2.2273381",
+                "2.2287460"
+            ],
+            "dc_project": "DATA4 DC25 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88391012,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5851811315,
+            "lat": "48.7266317",
+            "lon": "2.0792066",
+            "class": "place",
+            "type": "house",
+            "place_rank": 30,
+            "importance": 0.00005929884794380129,
+            "addresstype": "place",
+            "name": "",
+            "display_name": "1, Rue Pablo Picasso, Gomberville, Cressely, Magny-les-Hameaux, Rambouillet, Yvelines, Île-de-France, France métropolitaine, 78114, France",
+            "boundingbox": [
+                "48.7265817",
+                "48.7266817",
+                "2.0791566",
+                "2.0792566"
+            ],
+            "dc_project": "TH3 Paris Magny 2"
+        }
+    ],
+    [
+        {
+            "place_id": 87891002,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 1314525057,
+            "lat": "48.8389001",
+            "lon": "2.8066214",
+            "class": "highway",
+            "type": "construction",
+            "place_rank": 26,
+            "importance": 0.05339681162737465,
+            "addresstype": "road",
+            "name": "Avenue Johannes Gutenberg",
+            "display_name": "Avenue Johannes Gutenberg, Bailly, Bailly-Romainvilliers, Torcy, Seine-et-Marne, France métropolitaine, 77700, France",
+            "boundingbox": [
+                "48.8381790",
+                "48.8398247",
+                "2.8059599",
+                "2.8066541"
+            ],
+            "dc_project": "Data Center Linkcity (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 75302595,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 221312166,
+            "lat": "43.3543600",
+            "lon": "5.3318403",
+            "class": "highway",
+            "type": "residential",
+            "place_rank": 26,
+            "importance": 0.053411472495613,
+            "addresstype": "road",
+            "name": "Impasse Sanguinetti",
+            "display_name": "Impasse Sanguinetti, Mourepiane, Saint-Henri, Marseille 16e Arrondissement, Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13016, France",
+            "boundingbox": [
+                "43.3542456",
+                "43.3546448",
+                "5.3313324",
+                "5.3320426"
+            ],
+            "dc_project": "DIGITAL_REALTY_-_MRS5 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 75228380,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 76469,
+            "lat": "43.2961743",
+            "lon": "5.3699525",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.7310634603535818,
+            "addresstype": "city",
+            "name": "Marseille",
+            "display_name": "Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, France",
+            "boundingbox": [
+                "43.1696228",
+                "43.3910329",
+                "5.2286312",
+                "5.5324758"
+            ],
+            "dc_project": "SEGRO MARSEILLE"
+        }
+    ],
+    [
+        {
+            "place_id": 88700332,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 30983939,
+            "lat": "48.7593579",
+            "lon": "2.4434438",
+            "class": "highway",
+            "type": "tertiary",
+            "place_rank": 26,
+            "importance": 0.0533856374456397,
+            "addresstype": "road",
+            "name": "Rue Louis Armand",
+            "display_name": "Rue Louis Armand, Villeneuve-Saint-Georges, L'Haÿ-les-Roses, Val-de-Marne, France métropolitaine, 94190, France",
+            "boundingbox": [
+                "48.7593567",
+                "48.7593751",
+                "2.4433082",
+                "2.4435803"
+            ],
+            "dc_project": "Goodman 1 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88700332,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 30983939,
+            "lat": "48.7593579",
+            "lon": "2.4434438",
+            "class": "highway",
+            "type": "tertiary",
+            "place_rank": 26,
+            "importance": 0.0533856374456397,
+            "addresstype": "road",
+            "name": "Rue Louis Armand",
+            "display_name": "Rue Louis Armand, Villeneuve-Saint-Georges, L'Haÿ-les-Roses, Val-de-Marne, France métropolitaine, 94190, France",
+            "boundingbox": [
+                "48.7593567",
+                "48.7593751",
+                "2.4433082",
+                "2.4435803"
+            ],
+            "dc_project": "Goodman 2 (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 88257744,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 36142605,
+            "lat": "48.9531203",
+            "lon": "2.4213657",
+            "class": "highway",
+            "type": "residential",
+            "place_rank": 26,
+            "importance": 0.05338651178759438,
+            "addresstype": "road",
+            "name": "Avenue de la Deuxième Division Blindée",
+            "display_name": "Avenue de la Deuxième Division Blindée, Dugny, Le Raincy, Seine-Saint-Denis, France métropolitaine, 93440, France",
+            "boundingbox": [
+                "48.9512509",
+                "48.9548796",
+                "2.4203189",
+                "2.4221726"
+            ],
+            "dc_project": "Digital Reality Dugny (PROJET)"
+        }
+    ],
+    [
+        {
+            "place_id": 85367026,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 153742,
+            "lat": "47.2547643",
+            "lon": "5.1450375",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.5814538145678493,
+            "addresstype": "village",
+            "name": "Fauverney",
+            "display_name": "Fauverney, Dijon, Côte-d'Or, Bourgogne-Franche-Comté, France métropolitaine, 21110, France",
+            "boundingbox": [
+                "47.2435789",
+                "47.2835653",
+                "5.1233882",
+                "5.1787724"
+            ],
+            "dc_project": "Data Center du Crédit Mutuel - Fauverney"
+        }
+    ],
+    [
+        {
+            "place_id": 85196381,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 641796826,
+            "lat": "47.3371804",
+            "lon": "5.1092469",
+            "class": "highway",
+            "type": "unclassified",
+            "place_rank": 26,
+            "importance": 0.05339918593118178,
+            "addresstype": "road",
+            "name": "Rue Frédéric Lescure",
+            "display_name": "Rue Frédéric Lescure, Saint-Apollinaire, Dijon, Côte-d'Or, Bourgogne-Franche-Comté, France métropolitaine, 21850, France",
+            "boundingbox": [
+                "47.3350198",
+                "47.3393523",
+                "5.1065139",
+                "5.1119707"
+            ],
+            "dc_project": "Data Center du Crédit Mutuel - Saint Appolinaire"
+        }
+    ],
+    [
+        {
+            "place_id": 79580996,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 37586,
+            "lat": "44.9332277",
+            "lon": "4.8920811",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.6071918172868633,
+            "addresstype": "city",
+            "name": "Valence",
+            "display_name": "Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26000, France",
+            "boundingbox": [
+                "44.8870479",
+                "44.9597550",
+                "4.8533327",
+                "4.9783075"
+            ],
+            "dc_project": "Sesterce"
+        }
+    ],
+    [
+        {
+            "place_id": 80469846,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 102786,
+            "lat": "45.1524000",
+            "lon": "5.7481200",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.5697064980632234,
+            "addresstype": "village",
+            "name": "Eybens",
+            "display_name": "Eybens, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38320, France",
+            "boundingbox": [
+                "45.1384501",
+                "45.1667985",
+                "5.7317571",
+                "5.7656918"
+            ],
+            "dc_project": "DataOne"
+        }
+    ],
+    [
+        {
+            "place_id": 81177419,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 76383,
+            "lat": "45.6140030",
+            "lon": "5.1580574",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.5665773074269328,
+            "addresstype": "town",
+            "name": "Villefontaine",
+            "display_name": "Villefontaine, La Tour-du-Pin, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38090, France",
+            "boundingbox": [
+                "45.5907223",
+                "45.6413386",
+                "5.1232499",
+                "5.1862924"
+            ],
+            "dc_project": "DataOne"
+        }
+    ],
+    [
+        {
+            "place_id": 74512254,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 89292,
+            "lat": "43.6008898",
+            "lon": "6.9963543",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.5276374925072969,
+            "addresstype": "town",
+            "name": "Mougins",
+            "display_name": "Mougins, Grasse, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06250, France",
+            "boundingbox": [
+                "43.5679228",
+                "43.6182120",
+                "6.9545257",
+                "7.0544869"
+            ],
+            "dc_project": "Evroc Mougins"
+        }
+    ],
+    [
+        {
+            "place_id": 77535427,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 35738,
+            "lat": "43.6044622",
+            "lon": "1.4442469",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.7190266244873726,
+            "addresstype": "city",
+            "name": "Toulouse",
+            "display_name": "Toulouse, Haute-Garonne, Occitanie, France métropolitaine, France",
+            "boundingbox": [
+                "43.5326969",
+                "43.6687019",
+                "1.3503311",
+                "1.5153356"
+            ],
+            "dc_project": "TCS"
+        }
+    ],
+    [
+        {
+            "place_id": 87526876,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 46949911,
+            "lat": "48.9738883",
+            "lon": "1.7667139",
+            "class": "highway",
+            "type": "residential",
+            "place_rank": 26,
+            "importance": 0.053392178988326815,
+            "addresstype": "road",
+            "name": "Avenue Henri Regnault",
+            "display_name": "Avenue Henri Regnault, Porcheville, Mantes-la-Jolie, Yvelines, Île-de-France, France métropolitaine, 78440, France",
+            "boundingbox": [
+                "48.9728950",
+                "48.9751451",
+                "1.7658013",
+                "1.7672505"
+            ],
+            "dc_project": "Porcheville (info IPR)"
+        }
+    ],
+    [
+        {
+            "place_id": 87927121,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 80063,
+            "lat": "48.5150876",
+            "lon": "2.6347018",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.5712939308369419,
+            "addresstype": "town",
+            "name": "Dammarie-les-Lys",
+            "display_name": "Dammarie-les-Lys, Melun, Seine-et-Marne, France métropolitaine, 77190, France",
+            "boundingbox": [
+                "48.4946470",
+                "48.5346415",
+                "2.5848606",
+                "2.6550707"
+            ],
+            "dc_project": "Dammarie-lès-Lys"
+        }
+    ],
+    [
+        {
+            "place_id": 87908202,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 80473,
+            "lat": "48.5919203",
+            "lon": "2.6679091",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.5596803707020005,
+            "addresstype": "village",
+            "name": "Montereau-sur-le-Jard",
+            "display_name": "Montereau-sur-le-Jard, Melun, Seine-et-Marne, France métropolitaine, 77950, France",
+            "boundingbox": [
+                "48.5789062",
+                "48.6148956",
+                "2.6445984",
+                "2.7008964"
+            ],
+            "dc_project": "Villaroche"
+        }
+    ],
+    [
+        {
+            "place_id": 93634197,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 55938,
+            "lat": "50.1757546",
+            "lon": "3.2346145",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.6256371793873083,
+            "addresstype": "city",
+            "name": "Cambrai",
+            "display_name": "Cambrai, Nord, Hauts-de-France, France métropolitaine, 59400, France",
+            "boundingbox": [
+                "50.1410069",
+                "50.2036584",
+                "3.2014905",
+                "3.2808727"
+            ],
+            "dc_project": "Brookfield"
+        }
+    ],
+    [
+        {
+            "place_id": 88611868,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 1174036,
+            "lat": "48.6817080",
+            "lon": "2.1701573",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.5287466749502764,
+            "addresstype": "town",
+            "name": "Les Ulis",
+            "display_name": "Les Ulis, Palaiseau, Essonne, France métropolitaine, 91940, France",
+            "boundingbox": [
+                "48.6682958",
+                "48.6948230",
+                "2.1608333",
+                "2.2119427"
+            ],
+            "dc_project": "COLT PAR 5"
+        }
+    ],
+    [
+        {
+            "place_id": 88611868,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 1174036,
+            "lat": "48.6817080",
+            "lon": "2.1701573",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.5287466749502764,
+            "addresstype": "town",
+            "name": "Les Ulis",
+            "display_name": "Les Ulis, Palaiseau, Essonne, France métropolitaine, 91940, France",
+            "boundingbox": [
+                "48.6682958",
+                "48.6948230",
+                "2.1608333",
+                "2.2119427"
+            ],
+            "dc_project": "COLT PAR 6"
+        }
+    ],
+    [
+        {
+            "place_id": 88437410,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 7900802595,
+            "lat": "48.6917346",
+            "lon": "2.2191615",
+            "class": "place",
+            "type": "house",
+            "place_rank": 30,
+            "importance": 0.000058325322346792055,
+            "addresstype": "place",
+            "name": "",
+            "display_name": "20, Avenue du Québec, Parc d'Activités de Courtabœuf, Villebon-sur-Yvette, Palaiseau, Essonne, France métropolitaine, 91140, France",
+            "boundingbox": [
+                "48.6916846",
+                "48.6917846",
+                "2.2191115",
+                "2.2192115"
+            ],
+            "dc_project": "COLT VILLEBON PAR 2"
+        }
+    ],
+    [
+        {
+            "place_id": 88437410,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 7900802595,
+            "lat": "48.6917346",
+            "lon": "2.2191615",
+            "class": "place",
+            "type": "house",
+            "place_rank": 30,
+            "importance": 0.000058325322346792055,
+            "addresstype": "place",
+            "name": "",
+            "display_name": "20, Avenue du Québec, Parc d'Activités de Courtabœuf, Villebon-sur-Yvette, Palaiseau, Essonne, France métropolitaine, 91140, France",
+            "boundingbox": [
+                "48.6916846",
+                "48.6917846",
+                "2.2191115",
+                "2.2192115"
+            ],
+            "dc_project": "COLT VILLEBON PAR 3"
+        }
+    ],
+    [
+        {
+            "place_id": 88437410,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 7900802595,
+            "lat": "48.6917346",
+            "lon": "2.2191615",
+            "class": "place",
+            "type": "house",
+            "place_rank": 30,
+            "importance": 0.000058325322346792055,
+            "addresstype": "place",
+            "name": "",
+            "display_name": "20, Avenue du Québec, Parc d'Activités de Courtabœuf, Villebon-sur-Yvette, Palaiseau, Essonne, France métropolitaine, 91140, France",
+            "boundingbox": [
+                "48.6916846",
+                "48.6917846",
+                "2.2191115",
+                "2.2192115"
+            ],
+            "dc_project": "COLT VILLEBON PAR 4"
+        }
+    ],
+    [
+        {
+            "place_id": 86906038,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 178167250,
+            "lat": "47.8286576",
+            "lon": "0.7452442",
+            "class": "highway",
+            "type": "secondary",
+            "place_rank": 26,
+            "importance": 0.053394356450751475,
+            "addresstype": "road",
+            "name": "Rue du 8 Mai 1945",
+            "display_name": "Rue du 8 Mai 1945, La Chaussaie, Bessé-sur-Braye, Mamers, Sarthe, Pays de la Loire, France métropolitaine, 72310, France",
+            "boundingbox": [
+                "47.8283584",
+                "47.8289364",
+                "0.7448571",
+                "0.7456462"
+            ],
+            "dc_project": "Eclairion Bessé-sur-Braye"
+        }
+    ],
+    [
+        {
+            "place_id": 90110374,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 49015894,
+            "lat": "49.0514595",
+            "lon": "1.9996520",
+            "class": "highway",
+            "type": "secondary",
+            "place_rank": 26,
+            "importance": 0.05339614175631339,
+            "addresstype": "road",
+            "name": "Avenue des Navigateurs",
+            "display_name": "Avenue des Navigateurs, Le Fief A Cavan, Hauts-de-Cergy, Courdimanche, Pontoise, Val-d'Oise, France métropolitaine, 95800, France",
+            "boundingbox": [
+                "49.0496466",
+                "49.0531064",
+                "1.9968772",
+                "2.0025276"
+            ],
+            "dc_project": "Mirapolis"
+        }
+    ],
+    [
+        {
+            "place_id": 262985681,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 182027482,
+            "lat": "48.0652866",
+            "lon": "-1.7128707",
+            "class": "highway",
+            "type": "unclassified",
+            "place_rank": 26,
+            "importance": 0.053395282673380604,
+            "addresstype": "road",
+            "name": "Rue Pierre et Marie Curie",
+            "display_name": "Rue Pierre et Marie Curie, Usine Stellantis de Rennes - La Janais, Chartres-de-Bretagne, Rennes, Ille-et-Vilaine, Bretagne, France métropolitaine, 35131, France",
+            "boundingbox": [
+                "48.0649623",
+                "48.0656109",
+                "-1.7130139",
+                "-1.7127276"
+            ],
+            "dc_project": "Microsoft - La Janais Chartre de Bretagne "
+        }
+    ],
+    [
+        {
+            "place_id": 88026877,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 80472,
+            "lat": "48.5863987",
+            "lon": "2.7785364",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.5642264040632169,
+            "addresstype": "village",
+            "name": "Fouju",
+            "display_name": "Fouju, Melun, Seine-et-Marne, France métropolitaine, 77390, France",
+            "boundingbox": [
+                "48.5714100",
+                "48.6041956",
+                "2.7350330",
+                "2.7905110"
+            ],
+            "dc_project": "MGX Mistral AI"
+        }
+    ],
+    [
+        {
+            "place_id": 262259711,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 494204926,
+            "lat": "49.1916221",
+            "lon": "-0.3061681",
+            "class": "highway",
+            "type": "service",
+            "place_rank": 27,
+            "importance": 0.04006589074540321,
+            "addresstype": "road",
+            "name": "Rue des Ateliers",
+            "display_name": "Rue des Ateliers, Campus Effiscience, Colombelles, Caen, Calvados, Normandie, France métropolitaine, 14460, France",
+            "boundingbox": [
+                "49.1911095",
+                "49.1922990",
+                "-0.3078760",
+                "-0.3044119"
+            ],
+            "dc_project": "ZAC du plateau de Colombelle"
+        }
+    ],
+    [
+        {
+            "place_id": 262636695,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 10568522,
+            "lat": "49.6548302",
+            "lon": "-1.8128064",
+            "class": "boundary",
+            "type": "postal_code",
+            "place_rank": 21,
+            "importance": 0.1200637438010223,
+            "addresstype": "postcode",
+            "name": "50440",
+            "display_name": "50440, Beaumont-Hague, La Hague, Cherbourg, Manche, Normandie, France métropolitaine, France",
+            "boundingbox": [
+                "49.5816573",
+                "49.7280110",
+                "-1.9487700",
+                "-1.7320859"
+            ],
+            "dc_project": "La Hague"
+        }
+    ],
+    [
+        {
+            "place_id": 84746257,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 69272,
+            "lat": "47.7314942",
+            "lon": "7.5177461",
+            "class": "boundary",
+            "type": "administrative",
+            "place_rank": 16,
+            "importance": 0.5480142480940273,
+            "addresstype": "village",
+            "name": "Petit-Landau",
+            "display_name": "Petit-Landau, Mulhouse, Haut-Rhin, Grand Est, France métropolitaine, 68490, France",
+            "boundingbox": [
+                "47.7148509",
+                "47.7548438",
+                "7.4558963",
+                "7.5486564"
+            ],
+            "dc_project": "Microsoft Petit-Landau"
+        }
+    ]
+]
