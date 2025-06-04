@@ -73,7 +73,7 @@ async function dcProjectsMap() {
 	orderedDcProjects.forEach((project) => {
 		const marker = L.marker(project.coordinates).addTo(myMap);
 		marker.bindPopup(
-			`<b>Number of data centers</b>: ${project.number}<br><b>DC project name(s):</b><br> ${project.name}<br><b>DC project total surface</b>: ${project.surface}<br><b>DC project total power</b>: ${project.power}`
+			`<b>Number of data centers</b>: ${project.number}<br><b>DC project name(s) (planned delivery date):</b><br> ${project.name}<br><b>DC project total surface</b>: ${project.surface}<br><b>DC project total power</b>: ${project.power}`
 		);
 	});
 }
