@@ -47,7 +47,7 @@
 
 @font-face {
 	font-family: "Lexend";
-	src: url("/static/fonts/Lexend-Regular.ttf");
+	src: url("static/fonts/Lexend-Regular.ttf");
 }
 
 *,
