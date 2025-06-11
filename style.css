@@ -1,0 +1,191 @@
+:root {
+	--color-white-100: hsla(0, 0%, 100%, 1);
+	--color-white: var(--color-white-100);
+	--color-gray-200: hsla(240, 6%, 87%, 1);
+  	--color-gray-800: hsla(240, 8%, 21%, 1);
+	--color-black: hsla(240, 8%, 5%, 1);
+	--color-primary-h: 210;
+	--color-primary-s: 100%;
+	--color-primary-l: 40%;
+	--color-primary-100: hsla(var(--color-primary-h),
+			var(--color-primary-s),
+			var(--color-primary-l),
+			1);
+	--color-primary: var(--color-primary-100);
+	--color-secondary-h: 50;
+	--color-secondary-s: 100%;
+	--color-secondary-l: 60%;
+	--color-secondary-30: hsla(var(--color-secondary-h),
+			var(--color-secondary-s),
+			var(--color-secondary-l),
+			0.3);
+	--color-secondary-50: hsla(var(--color-secondary-h),
+			var(--color-secondary-s),
+			var(--color-secondary-l),
+			0.5);
+	--color-secondary: var(--color-secondary-100);
+	--color-background: var(--color-white);
+	--color-text: var(--color-gray-800);
+	--color-headings: var(--color-black);
+	--main-font-family: "Lexend";
+	--main-font-weight: 400;
+	--main-font-style: normal;
+	--fallback-font-family: "Noto";
+	--text-xl: clamp(1.25rem, 1.125rem + 0.556vw, 1.5rem);
+
+	--border-width: 1px;
+	--border-color: var(--color-gray-200);
+	--border: var(--border-width) solid var(--border-color);
+	--text-md: 1rem;
+	--leading-none: 1;
+	--rounded-xl: var(--text-xl);
+	--wrapper-max-width: 80rem;
+	--header-height: 4rem;
+	--space-16: 1rem;
+	--gutter: clamp(24px, 20px + 1.111vw, 32px);
+}
+
+@font-face {
+	font-family: "Lexend";
+	src: url("/static/fonts/Lexend-Regular.ttf");
+}
+
+*,
+::before,
+::after {
+	box-sizing: border-box;
+}
+
+a,
+a:visited {
+	text-decoration: none;
+}
+
+a,
+a:visited {
+	color: var(--color-text, initial);
+}
+
+body {
+	font-family: var(--main-font-family), var(--fallback-font-family);
+	font-weight: 400;
+	font-style: normal;
+}
+
+header {
+	display: flex;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	z-index: 1;
+	width: 100%;
+	max-width: min(var(--wrapper-max-width), 100vw);
+	height: var(--header-height);
+	background-color: var(--color-background);
+	margin-inline: auto;
+	padding: var(--space-16) var(--gutter, 2rem);
+	display: flex;
+	column-gap: var(--gutter);
+	align-items: center;
+	justify-content: space-between;
+	border-inline: var(--border);
+}
+
+#contact,
+#contact:visited {
+	color: var(--color-white);
+}
+
+
+main {
+	position: relative;
+}
+
+.wrapper {
+	padding: 12px;
+	border: var(--border);
+	margin-inline: auto;
+	width: 100%;
+	max-width: var(--wrapper-max-width);
+	padding-inline: var(--gutter, 2rem);
+	position: relative;
+	background-color: inherit;
+	color: var(--color-text, inherit);
+	transition: inherit;
+	border-inline: var(--border);
+}
+
+.btn-primary,
+.btn-primary-100 {
+	display: inline-flex;
+	border-style: none;
+	justify-content: center;
+	align-items: center;
+	padding: 0.75em 1em 0.8em;
+	text-align: center;
+	text-decoration: none;
+	font-size: var(--text-md);
+	font-weight: 500;
+	border-radius: var(--rounded-xl);
+	cursor: pointer;
+	background-color: var(--background, var(--color-primary-100));
+	color: var(--color, var(--color-white));
+	transition:
+		background var(--timing) var(--easing),
+		color var(--timing) var(--easing);
+	user-select: none;
+}
+
+.btn-sm {
+	font-size: var(--text-sm);
+}
+
+.logo {
+	display: flex;
+	column-gap: 0.5rem;
+	font-size: 1.4375rem;
+	font-weight: 500;
+	height: var(--space-32);
+	margin-left: auto;
+	color: var(--color-headings);
+}
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+::selection {
+	background: var(--color-secondary-30, Highlight);
+}
+
+@media (min-width: 480px) {
+
+	*,
+	::after,
+	::before {
+		box-sizing: content-box;
+	}
+
+	.btn-sm {
+		max-height: 2.25rem;
+	}
+}
+
+@media (hover: hover) {
+
+	.btn-primary:hover,
+	.btn-primary-100:hover {
+		--background: color-mix(in srgb, var(--color-primary-100) 80%, black);
+	}
+
+	.btn-primary-10:hover {
+		--background: color-mix(in srgb, var(--color-primary-10) 80%, white);
+	}
+
+	.btn-secondary:hover,
+	.btn-secondary-30:hover {
+		--background: var(--color-secondary-50);
+	}
+}
